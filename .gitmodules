@@ -1,0 +1,74 @@
+[submodule "blocks/quickmail"]
+    path = blocks/quickmail
+    url = git://github.com/lsuits/block_quickmail.git
+[submodule "mod/attendance"]
+    path = mod/attendance
+    url = git@github.com:danmarsden/moodle-mod_attendance.git
+    branch = MOODLE_311_STABLE
+[submodule "mod/diary"]
+    path = mod/diary
+    url = git@github.com:drachels/moodle-mod_diary.git
+    branch = MOODLE_311_STABLE
+[submodule "mod/hvp"]
+    path = mod/hvp
+    url = git@github.com:h5p/moodle-mod_hvp.git
+[submodule "mod/journal"]
+    path = mod/journal
+    url = git@github.com:elearningsoftware/moodle-mod_journal.git
+[submodule "mod/questionnaire"]
+    path = mod/questionnaire
+    url = git@github.com:PoetOS/moodle-mod_questionnaire.git
+[submodule "mod/turnitintooltwo"]
+    path = mod/turnitintooltwo
+    url = git@github.com:turnitin/moodle-mod_turnitintooltwo.git
+[submodule "mod/zoom"]
+    path = mod/zoom
+    url = git@github.com:ncstate-delta/moodle-mod_zoom.git
+[submodule "mod/quiz/report/group"]
+    path = mod/quiz/report/group
+    url = https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git
+[submodule "blocks/accessibility"]
+    path = blocks/accessibility
+    url = git@github.com:brickfield/moodle-block_accessibility.git
+    branch = main
+[submodule "blocks/attendance"]
+    path = blocks/attendance
+    url = git@github.com:danmarsden/moodle-block_attendance.git
+    branch = main
+[submodule "blocks/course_contents"]
+    path = blocks/course_contents
+    url = git@github.com:mudrd8mz/moodle-block_course_contents.git
+[submodule "question/type/formulas"]
+    path = question/type/formulas
+    url = git@github.com:dbauer-ets/moodle-qtype_formulas.git
+[submodule "question/type/matrix"]
+    path = question/type/matrix
+    url = git@github.com:ndunand/moodle-qtype_matrix.git
+[submodule "question/type/ordering"]
+    path = question/type/ordering
+    url = git@github.com:gbateson/moodle-qtype_ordering.git
+[submodule "question/type/wordselect"]
+    path = question/type/wordselect
+    url = git@github.com:marcusgreen/moodle-qtype_wordselect.git
+[submodule "question/behaviour/adaptivemultipart"]
+    path = question/behaviour/adaptivemultipart
+    url = git@github.com:maths/moodle-qbehaviour_adaptivemultipart.git
+[submodule "lib/editor/atto/plugins/morefontcolors"]
+    path = lib/editor/atto/plugins/morefontcolors
+    url = git@github.com:ndunand/moodle-atto_morefontcolors.git
+[submodule "course/format/onetopic"]
+    path = course/format/onetopic
+    url = git@github.com:davidherney/moodle-format_onetopic.git
+[submodule "course/format/topcoll"]
+    path = course/format/topcoll
+    url = git@github.com:gjb2048/moodle-format_topcoll.git
+[submodule "report/editdates"]
+    path = report/editdates
+    url = git@github.com:moodleou/moodle-report_editdates.git
+    branch = main
+[submodule "plagiarism/turnitin"]
+    path = plagiarism/turnitin
+    url = git@github.com:turnitin/moodle-plagiarism_turnitin.git
+[submodule "gc/kaltura"]
+    path = gc/kaltura
+    url = git@github.com:kaltura/moodle_plugin.git
